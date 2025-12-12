@@ -35,6 +35,7 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
+<br>
 
 Half wave rectifier:
 <img width="1912" height="1014" alt="Screenshot 2025-12-10 161923" src="https://github.com/user-attachments/assets/3178c25d-dda2-48e6-84b9-cd7d8b56ec2e" />
@@ -42,16 +43,18 @@ Half wave rectifier:
 Bridge rectifier:
 <img width="1174" height="826" alt="Screenshot 2025-12-12 201055" src="https://github.com/user-attachments/assets/014db327-60a2-461f-99e2-50835412995e" />
 
-TABULAR COLUMN
+TABULAR COLUMN<br>
 Half wave rectifier
+![WhatsApp Image 2025-12-12 at 20 40 09_24aab29c](https://github.com/user-attachments/assets/e4294580-2e30-407f-8be5-ba2ecd8b234e)
 
 Full wave rectifier
+![WhatsApp Image 2025-12-12 at 20 40 09_b8f1257f](https://github.com/user-attachments/assets/eeaa5804-a064-47a2-b0fa-a1b91ab460b9)
 
-WAVEFORM:
-Full wave rectifier with filter and without filter:
+WAVEFORM:<br>
+Full wave rectifier :
 <img width="1370" height="869" alt="Screenshot 2025-12-12 201021" src="https://github.com/user-attachments/assets/20e8a2cc-837f-4751-a1d0-e25596591413" />
 
-Half wave rectifier with filter and without filter:
+Half wave rectifier :
 <img width="1372" height="861" alt="Screenshot 2025-12-10 161906" src="https://github.com/user-attachments/assets/077422e8-b4cb-4b62-9c00-7819fa410998" />
 
 RESULT:
