@@ -1,11 +1,11 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+AIM:<br> To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.<br>
 
-COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+COMPONENTS  AND  EQUIPMENT  REQUIRED:<br>  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.<br>
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+THEORY: <br>Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
 
@@ -36,17 +36,23 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier:
+<img width="1912" height="1014" alt="Screenshot 2025-12-10 161923" src="https://github.com/user-attachments/assets/3178c25d-dda2-48e6-84b9-cd7d8b56ec2e" />
 
-Bridge rectifier with filter:
+Bridge rectifier:
+<img width="1174" height="826" alt="Screenshot 2025-12-12 201055" src="https://github.com/user-attachments/assets/014db327-60a2-461f-99e2-50835412995e" />
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Half wave rectifier
+
+Full wave rectifier
 
 WAVEFORM:
+Full wave rectifier with filter and without filter:
+<img width="1370" height="869" alt="Screenshot 2025-12-12 201021" src="https://github.com/user-attachments/assets/20e8a2cc-837f-4751-a1d0-e25596591413" />
 
+Half wave rectifier with filter and without filter:
+<img width="1372" height="861" alt="Screenshot 2025-12-10 161906" src="https://github.com/user-attachments/assets/077422e8-b4cb-4b62-9c00-7819fa410998" />
 
 RESULT:
 
